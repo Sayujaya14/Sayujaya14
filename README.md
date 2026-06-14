@@ -76,22 +76,6 @@ I'm a Software Engineer passionate about building modern web applications, AI-po
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayujaya14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayujaya14&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayujaya14&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Building AI-powered applications
