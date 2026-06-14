@@ -76,22 +76,6 @@ I'm a Software Engineer passionate about building modern web applications, AI-po
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 AI Chatbot Platform
-A full-stack chatbot platform featuring authentication, conversation history, and LLM integrations.
-
-### 🩸 Blood Management System
-A web application designed to streamline blood donation and request management.
-
-### 🇳🇵 Government Job Aggregator
-Automated scraping and aggregation platform for government job postings from multiple organizations.
-
-### ⚡ Agentic AI Workflows
-Experiments and implementations using LangChain, Langfuse, and OpenClaw for building intelligent AI agents.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
